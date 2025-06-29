@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mcqgenerato
+Version: 0.0.0
+Author: shekar
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: PyPdf
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: requires-dist
